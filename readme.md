@@ -1,6 +1,7 @@
 # PROGRAM UNTUK MENGECEK JADWAL MATA KULIAH
 
 Program ini merupakan sebuah aplikasi sederhana yang dirancang untuk membantu mencari jadwal mata kuliah. Program ini memiliki dua fitur utama:
+
 1. Cari Berdasarkan Hari
 Fitur pertama memungkinkan pengguna untuk mencari jadwal mata kuliah berdasarkan hari tertentu.
 Pengguna diberitahu tentang opsi-opsi yang tersedia yaitu hari Senin sampai Minggu.
